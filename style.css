@@ -1,0 +1,390 @@
+/* 1920_Landing Page_Final */
+
+.papper {
+position: left;
+width: 1920px;
+height: 6122px;
+background: #FFFFFF;
+}
+
+/* Logo */
+.logo {
+position: absolute;
+left: 14.5%;
+right: 81.53%;
+top: 3.21%;
+bottom: 98.93%;
+
+}
+/* navbar */
+
+.a {
+    padding: 10px;
+    text-indent: 370px;
+    font-size: 13px;
+    font-weight: bold;
+    font-family: 'Lato', sans-serif;
+    line-height: 13px;
+}
+
+.b {
+    padding: 10px;
+    margin-top: -43px;
+    text-indent: 490px;
+    font-size: 13px;
+    font-weight: bold;
+    font-family: 'Lato', sans-serif;
+    line-height: 13px;
+}
+
+.c {
+    margin-top: -43px;
+    text-indent: 590px;
+    font-size: 13px;
+    font-weight: bold;
+    font-family: 'Lato', sans-serif;
+    line-height: 28px;
+}
+.d {
+    margin-top: -48px;
+    text-indent: 710px;
+    font-size: 13px;
+    font-weight: bold;
+    font-family: 'Lato', sans-serif;
+    line-height: 43px;
+
+}
+/* logga in */
+
+.Sign {
+    margin-top: -47px;
+    text-indent: 875px;
+    font-size: 13px;
+    font-weight: bold;
+    font-family: 'Lato', sans-serif;
+    line-height: 25px;
+
+}
+
+.start {
+    text-indent: 950px;
+    font-size: 13px;
+    font-family: 'Lato', sans-serif;
+    line-height: 2px;
+    padding-bottom: 10px;
+    margin-top: -45px;
+}
+.header {
+    border-bottom: 4px solid rgb(117, 63, 63);
+
+}
+/* artical1 */
+article{
+        background-image: url("img/BG\ \(1\).png");
+        background-size: cover;
+        background-position: left;
+        background-repeat: no-repeat;
+}
+.background1 {
+    width: 30px;
+    height: 30px;
+    background-size: cover;
+    background-position: left;
+    background-repeat: no-repeat;
+}
+.Be {
+    font-family: Georgia;
+    margin-top: -47px;
+    color: #01996d;
+    padding-top: 110px;
+    margin-left: 190px;
+    margin-top: 10px;
+    font-size: 39px;
+    font-weight: 700;
+    
+}
+.background1 {
+    background-size: cover;
+    background-image: url(img/BG\ \(1\).png);
+    height: 584px;
+    width: 1255px;
+}
+
+.Everyone {
+    font-family: 'lato';
+    font-weight: 500;
+    padding-top: 12px;
+    margin-left: 190px;
+    margin-top: 10px;
+    font-size: 12px;
+    color: #292929;
+    line-height: 24px;
+}
+
+.klick {
+    background: #01996d;
+    border: 1px solid #01996d;
+    border-radius: 4px;
+    line-height: 25px;
+    color: #fff;
+    text-indent: -48px;
+    padding: 2.3333vh 5.30417vw;
+    white-space: nowrap;
+    margin-top: -40px;
+    margin-right: 1280px;
+    margin-left: 188px;
+
+}
+/* small title */
+
+.text1 {
+    font-family: 'lato';
+    font-weight: 500;
+    padding-top: 12px;
+    margin-left: 175px;
+    margin-top: 100px;
+    font-size: 17px;
+}
+/* big title */
+
+.text2 {
+font-family: Georgia;
+margin-top: -47px;
+color: #03996e;
+padding-top: 10px;
+margin-left: 173px;
+margin-top: 10px;
+font-size: 31px;
+font-weight: 900;
+}
+/* aside text */
+
+.text3 {
+
+padding-top: 10px;
+margin-left: 628px;
+margin-top: -92px;
+font-size: 15px;
+}
+/* first step */
+
+.title1 {
+    padding-top: 45px;
+    margin-left: 255px;
+    margin-top: -100px;
+    font-family: 'Georgia';
+    font-style: normal;
+    font-weight: 700;
+
+}
+/* number one inte the back */
+
+.nr1 {
+    padding-top: 45px;
+    margin-left: 173px;
+    margin-top: 20px;
+
+}
+/* text for first step */
+
+.text11 {
+    padding-top: 45px;
+    margin-left: 173px;
+    margin-top: 20px;
+    font-family: 'lato';
+}
+
+.bild1 {
+    padding-top: 25px;
+    margin-left: 173px;
+    margin-top: 20px;
+
+}
+/* second step */
+
+.title2 {
+    padding-top: 45px;
+    margin-left: 540px;
+    margin-top: -388px;
+    margin-bottom: 298px;
+    font-family: 'Georgia';
+    font-style: normal;
+    font-weight: 700;
+
+}
+/* number two in the back */
+
+.nr2 {
+    padding-top: 45px;
+    margin-left: 493px;
+    margin-top: -900px;
+    margin-bottom: 298px;
+
+}
+/* text for second step */
+
+.text22 {
+    padding-top: 45px;
+    margin-left: 493px;
+    margin-top: -610px;
+    font-family: 'lato';
+}
+
+.bild2 {
+    padding-top: 45px;
+    margin-left: 493px;
+    margin-top: -20px;
+}
+/* third step */
+
+.title3 {
+    padding-top: 45px;
+    margin-left: 923px;
+    margin-top: -740px;
+    margin-bottom: 650px;
+    font-family: 'Georgia';
+    font-weight: 700;
+}
+/* number three in the back */
+
+.nr3 {
+    padding-top: 45px;
+    margin-left: 803px;
+    margin-top: -900px;
+    margin-bottom: 650px;
+
+}
+/* text for third step */
+
+.text33 {
+    padding-top: 45px;
+    margin-left: 808px;
+    margin-top: -1300px;
+    font-family: 'lato';
+}
+.bild3 {
+    padding-top: 25px;
+    margin-left: 809px;
+    margin-top: 20px;
+}
+/* footer */
+
+.end1 {
+    padding-top: 300px;
+    margin-left: 180px;
+    margin-top: 80px;
+    font-size: 30px;
+    color: #FFFFFF;
+    font-family: 'Georgia';
+    font-style: normal;
+    font-weight: 700;
+    line-height: 201%;
+    left: 100px;
+    top: 150px;}
+/* short sentence */
+
+.end2 {
+    width: 500px;
+    height: 30px;
+    font-size: 15px;
+    font-family: 'lato';
+    color: #FFFFFF;
+    margin-top: 10px;
+    margin-left: 177px;
+
+}
+/* button for start contact */
+
+.end3 {
+    color: #FFFFFF;
+    margin-left: 174px;
+    margin-top: 30px;
+    text-indent: -50px ;
+    margin-right: 1100px;
+    font-family: 'lato';
+    font-weight: 500;
+    background: #01996d;
+    border: 1px solid #01996d;
+    border-radius: 4px;
+    line-height: 25px;
+    text-align: left;
+    padding: 1.4444400000000002vh 5.60417vw;
+    white-space: nowrap;
+font-size: 15px;
+
+
+}
+/* Alivio */
+
+.end4 {
+color: white;
+font-size: 25px;
+font-family: 'Times New Roman', Times, serif;
+font-weight: 600;
+margin-top: 43px;
+margin-left: 215px;
+margin-right: 10px;
+line-height: 30px;
+}
+/* Why Alivio, solutions, community, pricing */
+
+.end51 {
+color: white;
+font-size: 20px;
+font-family: 'lato';
+font-weight: Bold;
+margin-top: 43px;
+margin-left: 215px;
+margin-right: 10px;
+line-height: 30px;
+}
+.end52 {
+color: white;
+font-size: 20px;
+font-family: 'lato';
+font-weight: Bold;
+margin-top: 43px;
+margin-left: 1px;
+margin-right: 10px;
+line-height: 30px;
+}
+.end53 {
+color: white;
+font-size: 20px;
+font-family: 'lato';
+font-weight: Bold;
+margin-top: 43px;
+margin-left: 1px;
+margin-right: 10px;
+line-height: 30px;
+}
+
+.end54 {
+color: white;
+font-size: 20px;
+font-family: 'lato';
+font-weight: Bold;
+margin-top: 43px;
+margin-left: 1px;
+margin-right: 10px;
+line-height: 30px;
+margin-bottom: 100px;
+}
+/*empty space at the end */
+.tomt {
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+}
+/* footer's image and video icon */
+
+.endimg {
+    padding-top: 3px;
+    margin-left: 550px;
+    margin-top: -360px;
+}
+
+
+
+
+
+
